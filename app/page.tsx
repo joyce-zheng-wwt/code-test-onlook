@@ -66,7 +66,7 @@ export default function Page() {
                     <div className="flex justify-between items-center py-4" data-oid="tb36a90">
                         <div className="flex items-center space-x-2" data-oid="kfyhfok">
                             <span className="text-3xl" data-oid="u7290f8">
-                                🌮
+                                🌮!!!
                             </span>
                             <h1 className="text-2xl font-bold text-orange-600" data-oid="d4xx:pa">
                                 TacoFiesta
